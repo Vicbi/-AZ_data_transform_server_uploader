@@ -1,0 +1,5 @@
+# ignore the following files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+mobile_users.csv
